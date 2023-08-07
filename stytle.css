@@ -70,19 +70,19 @@
             white-space: pre-wrap;
         }
 
-        .notion {
+        .instagram {
             background: linear-gradient(287.96deg, rgba(0, 0, 0, 0.16) 15.1%, rgba(0, 0, 0, 0) 83.32%), #F7F6F3;
             color: #84827D;
         }
 
-        .brunch {
+        .Github {
             background: linear-gradient(287.96deg, rgba(0, 0, 0, 0.16) 15.1%, rgba(0, 0, 0, 0) 83.32%), #02C3BD;
             color: #FFFFFF;
         }
 
-        .facebook {
+        .Tstory {
             background: linear-gradient(287.96deg, rgba(0, 0, 0, 0.16) 15.1%, rgba(0, 0, 0, 0) 83.32%), #4167B3;
-            color: #FFFFFF;
+            color: white;
         }
 
         .wrap {
